@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Review & Branch Analytics Dashboard",
+  "description": "แดชบอร์ดวิเคราะห์รีวิวร้านอาหาร เจาะลึกคะแนนรสชาติ การบริการ บรรยากาศ ความสะอาด พร้อมแผนที่พิกัดสาขาและการเปรียบเทียบสาขา",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
